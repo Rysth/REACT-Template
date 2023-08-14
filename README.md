@@ -44,21 +44,19 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
 - Feature 1
 - Feature 2
 - Feature 3
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Future Features <a name="future-features"></a>
 
 - Future Feature 1
 - Future Feature 2
 - Future Feature 3
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -100,6 +98,8 @@ npx eslint "**/*.{js,jsx}"
 ```
 
 _Use at the end '--fix' to help you out with any error._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
