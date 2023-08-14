@@ -17,6 +17,7 @@
     - [Future Features](#future-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Commands](#commands)
   - [Test](#test)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
@@ -57,7 +58,7 @@
 
 To get a local copy up and running, follow these steps.
 
-### Setup
+### Setup <a name="setup"></a>
 
 Clone this repository to your desired folder:
 
@@ -69,7 +70,7 @@ code . (To open VS Code Editor)
 
 Then, you will change everything you want!
 
-### Commands
+### Commands <a name="commands"></a>
 
 - ✔️ _npm start_:
   Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
@@ -80,7 +81,7 @@ Then, you will change everything you want!
 - ✔️ _npm run build_:
   Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Test
+### Test <a name="test"></a>
 
 In order to follow the Linters you could check them using this:
 
