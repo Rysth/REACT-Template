@@ -34,15 +34,10 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
-    <li><a href="https://www.w3schools.com/js/">JavaScript</a></li>
-     <li><a href="https://react.dev/">React</a></li>
-  </ul>
-</details>
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
+- [React](https://react.dev/)
 
 ### Key Features <a name="key-features"></a>
 
