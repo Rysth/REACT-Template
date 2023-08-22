@@ -14,12 +14,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Future Features](#future-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Commands](#commands)
   - [Test](#test)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -45,12 +45,6 @@
 - Feature 1
 - Feature 2
 - Feature 3
-
-### Future Features <a name="future-features"></a>
-
-- Future Feature 1
-- Future Feature 2
-- Future Feature 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,6 +97,14 @@ _Use at the end '--fix' to help you out with any error._
 
 - GitHub: [@rysthcraft](https://github.com/Rysth)
 - Linkedin: [@johnpalacios](https://www.linkedin.com/in/john-rysthcraft/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Future Feature 1
+- Future Feature 2
+- Future Feature 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
