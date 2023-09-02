@@ -6,14 +6,13 @@
   <h3><b>John Palacios - RysthCraft</b></h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Commands](#commands)
@@ -35,18 +34,22 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://www.w3schools.com/js/)
-- [React](https://react.dev/)
+- ✅ [HTML](https://www.w3schools.com/html/)
+- ✅ [CSS](https://www.w3schools.com/css/)
+- ✅ [JavaScript](https://www.w3schools.com/js/)
+- ✅ [React](https://react.dev/)
 
 ### Key Features <a name="key-features"></a>
 
-- Feature 1
-- Feature 2
-- Feature 3
+- 🔰 Feature 1
+- 🔰 Feature 2
+- 🔰 Feature 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo](https://react-bookstore-2060.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -75,15 +78,19 @@ Then, you will change everything you want!
 - ✔️ _npm run build_:
   Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Test <a name="test"></a>
+### Linters <a name="test"></a>
 
 In order to follow the Linters you could check them using this:
 
-```
-CSS Checker:
-npx stylelint "**/*.{css,scss}"
+- CSS Checker:
 
-ESLint Checker:
+```
+npx stylelint "**/*.{css,scss}"
+```
+
+- ESLint Checker:
+
+```
 npx eslint "**/*.{js,jsx}"
 ```
 
@@ -102,9 +109,9 @@ _Use at the end '--fix' to help you out with any error._
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Future Feature 1
-- Future Feature 2
-- Future Feature 3
+- [ ] Future Feature 1
+- [ ] Future Feature 2
+- [ ] Future Feature 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
