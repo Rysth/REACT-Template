@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://rysthcraft.netlify.app/img/LOGO-ONLY.svg" alt="logo" width="140"  height="auto" />
+  <img src="./banner.png" alt="logo" height="auto" />
   <br/>
   <h3><b>John Palacios - RysthCraft</b></h3>
 </div>
