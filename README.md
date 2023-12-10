@@ -1,7 +1,7 @@
 # John Palacios - RysthCraft
 
 <div align="center">
-  <img src="./banner.png" alt="logo" height="auto" />
+  <img src="./src/assets/personal/banner.png" alt="logo" height="auto" />
 </div>
 
 ## Table of Contents
