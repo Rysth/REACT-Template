@@ -13,7 +13,6 @@
     "sourceType": "module"
   },
   "extends": [
-    "airbnb",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "eslint:recommended",
@@ -34,5 +33,10 @@
       }
     }
   ],
-  "ignorePatterns": ["dist/", "build/"]
+  "ignorePatterns": ["dist/", "build/"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
 }

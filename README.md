@@ -49,8 +49,8 @@
 
 ### Commands
 
-- **npm start:** Run the app in development mode.
-- **npm test:** Launch the test runner.
+- **npm run dev:** Run the app in development mode.
+- **npm run lint:** Launch the eslint errors fixer.
 - **npm run build:** Build the app for production.
 
 ### Linters
