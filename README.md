@@ -1,7 +1,7 @@
 # John Palacios - RysthCraft
 
 <div align="center">
-  <img src="./banner.png" alt="logo" height="auto" />
+  <img src="./src/assets/personal/banner.png" alt="logo" height="auto" />
 </div>
 
 ## Table of Contents
@@ -49,8 +49,8 @@
 
 ### Commands
 
-- **npm start:** Run the app in development mode.
-- **npm test:** Launch the test runner.
+- **npm run dev:** Run the app in development mode.
+- **npm run lint:** Launch the eslint errors fixer.
 - **npm run build:** Build the app for production.
 
 ### Linters
